@@ -50,8 +50,9 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-     margin-left: 150px;
-     text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
 }
 
 .product-info h1 {
