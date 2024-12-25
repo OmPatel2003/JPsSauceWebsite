@@ -51,7 +51,6 @@ header img {
 .product-image img {
     width: 300px;
     height: auto;
-    border: 1px solid #ddd;
     border-radius: 5px;
 }
 
