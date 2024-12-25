@@ -27,7 +27,7 @@ header img {
 }
 
 /* Layout for Main Content */
-main {
+/*main {
     display: flex;
     justify-content: center;
     align-items: flex-start;
