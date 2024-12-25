@@ -38,13 +38,12 @@ header img {
 /* Left-side Large Product Image */
 .product-image {
     flex: 1;
-    max-width: 400px;
-    width: 100px; 
+    width: 300px; 
     height: auto;
 }
 
 .product-image img {
-    width: 100px;
+    width: 300px;
     height: auto;
     border: 1px solid #ddd;
     border-radius: 5px;
